@@ -1,0 +1,20 @@
+{
+  "name": "github_action_prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diasm3/github_action_prac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diasm3/github_action_prac/issues"
+  },
+  "homepage": "https://github.com/diasm3/github_action_prac#readme"
+}
